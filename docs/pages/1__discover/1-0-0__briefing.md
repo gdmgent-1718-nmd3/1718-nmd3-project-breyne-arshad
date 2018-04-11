@@ -13,8 +13,8 @@ Opdracht
 Teamleden
 ---------
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - Sylvia Breyne
+ - Aysha Arshad
 
 Gekozen Museum
 --------------
