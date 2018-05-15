@@ -16,5 +16,5 @@ Teamleden
  - Sylvia Breyne
  - Aysha Arshad
 
-Gekozen Museum
+Museum Dr. Guislain
 --------------
