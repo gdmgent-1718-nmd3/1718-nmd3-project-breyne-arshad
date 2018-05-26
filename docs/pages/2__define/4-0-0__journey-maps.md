@@ -20,33 +20,30 @@ title: Journey Maps
     <div class="col-12 text-center"> 
         <img class="journeymap" src="{{ site.baseurl }}/assets/img/journey_map_1.jpg">
     </div>
+</div>
+
+**Inzichten van journey map 1**
+  
+Pijnpunten | Opportuniteiten
+----------|----------
+Onduidelijke borden in museum     |Kaartje/gps op smartphone
+Museum verwarrend opgebouwd     |Plattegrond museum/gps
+Kunstwerken niet voldoende verlicht     |Bibliotheek met foto’s van kunstwerken
+{:.table}  
+
+<div class="row">
     <div class="col-12 text-center">
         <img class="journeymap" src="{{ site.baseurl }}/assets/img/journey_map_2.jpg">
     </div>
 </div>
+  
+**Inzichten van journey map 2**
+  
+Pijnpunten | Opportuniteiten
+----------|----------
+Onduidelijke borden in museum     |Kaartje/gps op smartphone/smartwatch
+Museum verwarrend opgebouwd/ongestructureerd     |Plattegrond museum/gps
+Weinig tot geen uitleg bij permanente tentoonstelling     |Uitleg/extra info te vinden op de smartphone-app
+{:.table}  
 
-<p>Inzichten van journey map 1 <br>
-<br>
-Pijnpunten <br>
-Onduidelijke borden in museum
-Museum verwarrend opgebouwd
-Kunstwerken niet voldoende verlicht<br>
-<br>
-Opportuniteiten <br>
-Kaartje/gps op smartphone
-Bibliotheek met foto’s van kunstwerken
-Plattegrond museum</p>
-
-<p>Inzichten van journey map 2 <br>
-<br>
-Pijnpunten<br>
-Onduidelijke borden in museum
-Museum verwarrend opgebouwd/ongestructureerd
-Extra uitleg zonder gids
-Weinig tot geen uitleg bij permanente tentoonstelling
-<br>
-Opportuniteiten <br>
-Kaartje/gps op smartphone/smartwatch
-Plattegrond museum
-Uitleg te vinden op de smartphone-app</p>
 
