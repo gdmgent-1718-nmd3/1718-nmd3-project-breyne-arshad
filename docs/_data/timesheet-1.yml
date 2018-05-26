@@ -1,28 +1,28 @@
 # ╔═══════════╗
-# ║ Student 1 ║
+# ║ Sylvia ║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 10
+  task: Analyse
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 12.30 
+  task: Concept
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 16.15
+  task: Smartwatch-app
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 23
+  task: Smartphone-app
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 14
+  task: Website
 -
   time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  task: UI Style Guide
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 9
+  task: Productiedossier
 -
   time: 100
   task: Lorem ipsum sit dolor amet.

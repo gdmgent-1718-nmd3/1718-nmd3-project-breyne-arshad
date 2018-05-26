@@ -6,3 +6,9 @@ published: true
 # ─────────────────────
 title: Wireframes
 ---
+## Onepager
+<div class="row">
+    <div class="col-12 text-center"> 
+        <img class="wireframe_promosite" src="{{ site.baseurl }}/assets/img/wireframe_promosite.jpg">
+    </div>
+</div>

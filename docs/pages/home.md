@@ -16,6 +16,10 @@ Wie zijn we?
     <div class="col-6 text-center">
         <img class="sylvia" src="{{ site.baseurl }}/assets/img/sylvia.png">
     </div>
+    <div class="col-6 text-center">
+        <p class="naam"> Aysha Arshad<br>2CMO-GD</p>
+    </div>
+    <div class="col-6 text-center">
+        <p class="naam"> Sylvia Breyne<br>2CMO-GD</p>
+    </div>
 </div>
- - Sylvia Breyne, 2CMO-GD
- - Aysha Arshad, 2CMO-GD

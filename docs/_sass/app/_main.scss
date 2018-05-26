@@ -16,9 +16,39 @@ h1{
 h2{
   color: $background;
   font-weight: 600;
+  margin-top: 2%;
 }
 .aysha, .sylvia{
-  width: 70%;
+  width: 80%;
+  margin-top: 15%;
+}
+
+.briefing{
+  width: 80%;
+  margin-top: 10%;
+}
+
+.naam{
+  margin-top: 5%;
+  color: $primary;
+  font-weight: 400;
+  font-size: 28px;
+}
+
+.naam2{
+  margin-top: 5%;
+  color: $primary;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+.guislain{
+  width: 80%;
+  margin-top: 9%;
+}
+
+.logo_guislain{
+  width: 80%;
 }
 
 .journeymap{
@@ -38,10 +68,50 @@ h2{
 
 .ideaboard2{
   width: 78%;
-  margin-top: 5%;
+
 }
 
 .gif{
   width: 55%;
   margin-bottom: 30%;
+}
+
+.styletile{
+  width: 85%;
+  margin-bottom: 10%;
+  margin-top: 5%;
+}
+
+.smartwatch{
+  width: 75%;
+  margin-top: 10%;
+}
+
+.wireflow_mobile{
+  width: 80%;
+}
+
+.smartphone{
+  width: 60%;
+  margin-top: 10%;
+}
+
+.sitemap{
+  width:80%;
+  margin-top: 10%;
+}
+
+.wireframe_promosite{
+  width: 70%;
+  margin-top: 7%;
+  margin-bottom: 10%;
+}
+
+.promosite{
+  width: 90%;
+  margin-top: 10%;
+}
+
+.promosite1{
+  width: 90%;
 }
