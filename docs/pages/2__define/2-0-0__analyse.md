@@ -7,7 +7,7 @@ published: true
 title: Analyse
 ---
 ## Conclusies interviews
-Wij hebben in totaal **7 mensen** geïnterviewd toen wij museum Dr. Guislain gingen bezoeken. We intervieuwden twee studenten, twee gepensioneerde vrouwen, een alleenstaande man (dertiger), een gehuwde man met kinderen (dertiger) en nog een alleenstaande vrouw (veertiger). Wij geven de namen niet vrij omdat wij de bezoekers beloofden dat het interview nadien anoniem zou blijven. Hieronder volgt een **bondige samenvatting van conclusies** die relevant zijn voor onze analyse. 
+Wij hebben in totaal **7 mensen** geïnterviewd toen wij museum Dr. Guislain gingen bezoeken. We interviewden twee studenten, twee gepensioneerde vrouwen, een alleenstaande man (dertiger), een gehuwde man met kinderen (dertiger) en nog een alleenstaande vrouw (veertiger). Wij geven de namen niet vrij omdat wij de bezoekers verzekerden dat het interview nadien anoniem zou blijven. Hieronder volgt een **bondige samenvatting van conclusies** die relevant zijn voor onze analyse. 
  
 - 4 van de 7 mensen die wij hebben geïnterviewd gaan naar musea om hun **cultureel te verrijken** en hun **kijk op de wereld te verbreden**
 - 3 van de 7 mensen die wij hebben geïnterviewd gaan naar het Dr. Guislain museum voor **permanente tentoonstelling** over de geschiedenis van de psychiatrie

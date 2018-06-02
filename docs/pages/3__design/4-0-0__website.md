@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Website
 ---
+De laatste stap is een promosite ontwerpen voor mogelijke investeerders in de app.

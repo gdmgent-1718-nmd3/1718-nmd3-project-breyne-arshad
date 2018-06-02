@@ -3,16 +3,16 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 13
+  time: 14
   task: Analyse
 -
-  time: 8.15
+  time: 9
   task: Concept
 -
-  time: 16.15
+  time: 19.30
   task: Smartwatch-app
 -
-  time: 23
+  time: 24
   task: Smartphone-app
 -
   time: 7
@@ -21,8 +21,8 @@
   time: 1.5
   task: UI Style Guide
 -
-  time: 2
+  time: 5
   task: Productiedossier
 -
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  time: 1
+  task: Voorbereiding presentatie jury

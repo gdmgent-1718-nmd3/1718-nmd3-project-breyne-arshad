@@ -46,6 +46,11 @@ ul{
   margin-top: 10%;
 }
 
+.planning{
+  margin-top: 5%;
+  width: 80%;
+}
+
 .naam{
   margin-top: 5%;
   color: $primary;
@@ -110,6 +115,12 @@ ul{
   margin-top: 5%;
 }
 
+.prototype_watch{
+  width: 80%;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+
 .smartwatch{
   width: 75%;
   margin-top: 10%;
@@ -117,6 +128,12 @@ ul{
 
 .wireflow_mobile{
   width: 80%;
+}
+
+.wireflow_watch{
+  width: 70%;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 .smartphone{
@@ -142,4 +159,112 @@ ul{
 
 .promosite1{
   width: 90%;
+}
+
+.kleurbalk1{
+  background-color: rgb(99,233,137);
+  color: white;
+  padding-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 5%;
+  height: 100px;
+  border-radius: 3rem;
+}
+
+.kleurbalk2{
+  background-color: rgb(40,48,84);
+  color: white;
+  padding-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 5%;
+  border-radius: 3rem;
+  height: 100px;
+}
+
+.kleurbalk3{
+  background-color: white;
+  border-color: rgb(40,48,84);
+  border: 3px solid;
+  padding-top: 20px;
+  color: rgb(40,48,84);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border-radius: 3rem;
+  height: 100px;
+}
+
+.thin{
+  font-family: $other-font-family;
+  font-weight: 100;
+  font-size: 20px;
+  margin-top: 5%;
+}
+
+.extralight{
+  font-family: $other-font-family;
+  font-weight: 200;
+  font-size: 20px;
+}
+
+.light{
+  font-family: $other-font-family;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.regular{
+  font-family: $other-font-family;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.medium{
+  font-family: $other-font-family;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.semibold{
+  font-family: $other-font-family;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.bold{
+  font-family: $other-font-family;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.extrabold{
+  font-family: $other-font-family;
+  font-weight: 800;
+  font-size: 20px;
+}
+
+.black{
+  font-family: $other-font-family;
+  font-weight: 900;
+  font-size: 20px;
+  margin-bottom: 5%;
+}
+
+.icoon1{
+  width: 20%;
+  margin-top: 5%;
+}
+
+.icoon2{
+  width: 35%;
+}
+
+.icoon3{
+  width: 45%;
+}
+
+.menuknoppen{
+  width: 50%;
+  margin-top: 10%;
+  margin-bottom: 10%;
 }
