@@ -6,6 +6,9 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+
+<a href="https://xd.adobe.com/view/48b488af-7acd-4b5a-6c3b-c9d7b3e25291-3e85/?hints=off" target="_blank">Klik hier om het prototype te bekijken!</a>
+
 <div class="row">
     <div class="col-4 text-center"> 
         <img class="smartphone" src="{{ site.baseurl }}/assets/img/beginscherm_mobile.jpg">

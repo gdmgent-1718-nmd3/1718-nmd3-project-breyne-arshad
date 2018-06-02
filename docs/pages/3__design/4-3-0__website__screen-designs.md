@@ -6,6 +6,8 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+<a href="https://xd.adobe.com/view/d5bf72ec-0610-4422-76a7-79fb49eecf51-a38e/?hints=off" target="_blank">Klik hier om het prototype te bekijken!</a>
+
 <div class="row">
     <div class="col-12 text-center"> 
         <img class="promosite" src="{{ site.baseurl }}/assets/img/promosite.jpg">
