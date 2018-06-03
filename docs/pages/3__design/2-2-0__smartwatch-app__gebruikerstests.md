@@ -85,7 +85,7 @@ De gebruiker vindt het onduidelijk wat ze moet doen bij de bovenste foto rechts.
 
 ### Ondervinding 3
   
-Bij de laatste gebruiker hebben wij zelf eerst uitgelegd wat het doel is van de app en wat er bij elke wireframe moet gebeuren. Hierna begreep de gebruiker alles en vond alles duidelijk.
+Bij de laatste gebruiker hebben wij zelf eerst uitgelegd wat het doel is van de app en wat er bij elke wireframe moet gebeuren. Hierna was alles duidelijk voor de gebruiker.
   
   
   

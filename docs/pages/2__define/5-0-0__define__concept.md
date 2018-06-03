@@ -14,4 +14,4 @@ De app kan ook **een bibliotheekfunctie** bevatten waarbij de bezoeker kunstwerk
   
 ## Smartwatch-app
   
-Met de smartwatch kan de gps-functie ook toegepast worden. Dit kan opnieuw door de **Beacontechnologie**. Met de smartwarch kan je ook kunstwerken opslaan, maar voor verder info over deze werken gebruik je beter de smartphone-app.
+Met de smartwatch kan de gps-functie ook toegepast worden. Dit kan opnieuw door de **Beacontechnologie**. Met de smartwatch kan je ook kunstwerken opslaan, maar voor verder info over deze werken gebruik je beter de smartphone-app.

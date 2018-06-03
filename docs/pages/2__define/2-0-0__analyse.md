@@ -17,7 +17,7 @@ Wij hebben in totaal **7 mensen** geïnterviewd toen wij museum Dr. Guislain gin
 
 ## Verdere analyse  
 ### High-Level-Concept vs. interactieconcepten op micro-niveau  
-Op het gebied van high-level-cencept willen we het museumbezoek voor de gebruiker makkelijker maken. We willen het vlotter doen laten verlopen door de gps-functie (beacons) die u 'gidst' doorheen het museum.  
+Op het gebied van high-level-concept willen we het museumbezoek voor de gebruiker makkelijker maken. We willen het vlotter doen laten verlopen door de gps-functie (beacons) die u 'gidst' doorheen het museum.  
   
 Op microniveau denken wij aan een hamburger-menu te gebruiken bij de smartphone-app zodat men telkens kan terugkeren naar het menu. Bij de smartwatch-app vinden wij dit eerder overbodig omdat hiervoor de swipe-functie gebruikt kan worden die de watch hoogstwaarschijnlijk bezit. Het concept van het liken en disliken op tinder vinden wij interessant voor de kunstwerken. Er kan een bibliotheek gecreëerd worden door kunstwerken te liken en zo in de bibliotheek te bewaren. 
 

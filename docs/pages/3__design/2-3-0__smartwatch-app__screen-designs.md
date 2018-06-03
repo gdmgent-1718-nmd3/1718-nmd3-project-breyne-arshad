@@ -7,7 +7,7 @@ published: true
 title: Screen Designs
 ---
 <a href="https://xd.adobe.com/view/d5ace7e0-0a12-433f-7fdd-445e41057f05-a39d/?hints=off" target="_blank">Klik hier om het prototype te bekijken!</a>
-Hou hierbij rekening dat op een echt smartwatch geswiped kan worden om terug te keren! Dit is bij XD niet mogelijk.
+Houd hierbij rekening dat op een echte smartwatch geswiped kan worden om terug te keren! Dit is bij XD niet mogelijk.
 
 
 <div class="row">
